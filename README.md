@@ -1,5 +1,5 @@
 # Simple-Chatty-Bot
-
+Java | Chatty | Bot
 Stage #1 Hello! What’s your name?
 Teach your assistant to introduce itself in the console
 
